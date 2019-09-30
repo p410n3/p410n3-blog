@@ -63,7 +63,7 @@ Which makes me an official contributor of the "Exploit Database and
 Google Hacking Database" apparently. It sounds cooler that it is to be
 honest.
 
-![screenshot of my profile on ghdb](/fileadmin/_processed_/4/b/csm_Screenshot_2019-03-31_12-47-40_a64a9ec18c.png)
+![screenshot of my profile on ghdb](img/csm_Screenshot_2019-03-31_12-47-40_a64a9ec18c.png)
 
 Some other Dorks from me Include one that is capable of finding
 incomplete Installations of the TYPO3 CMS that one would be able to
