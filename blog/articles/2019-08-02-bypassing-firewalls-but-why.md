@@ -36,7 +36,7 @@ powerful tool in shielding away reality from citizens for the purpose of
 propaganda. But I might write more about the GFW another day.
 
 ![He dont
-care](/fileadmin/user_upload/xi.gif "He dont care")
+care](img/xi.gif "He dont care")
 
 I am also in contact with a couple of folks from Iran, a country which
 has a form of internet censorship which is similar to China. The freedom
@@ -65,7 +65,7 @@ and I am sure that violates the GDPR and probably other laws, but
 whatever. Who cares about data protection laws right?
 
 ![That\'s the error I was shown. Pretty clear
-message.](/fileadmin/_processed_/0/e/csm_ssl-error-cropped_46880abfb6.png)
+message.](img/csm_ssl-error-cropped_46880abfb6.png)
 
 I have no idea *why *they do that. As far as I am concerned it may just
 be a misconfiguration. *Maybe*.
@@ -91,7 +91,7 @@ Avoiding the firewall means avoiding sniffing and restrictions.
 I  was also chatting with a guy from Cuba. Take a look at what he wrote
 to me:
 
-![](/fileadmin/user_upload/cuban-guy-vpn-1-cropped.png)
+![](img/cuban-guy-vpn-1-cropped.png)
 
 Now it gets comical. That guy is a SysAdmin. One would think using SSH
 is useful for such a person.
