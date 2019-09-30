@@ -38,7 +38,7 @@ website and the answer from their servers back to you. Because after all
 *only* the NYTimes website is blocked, but your middlebox is not.
 
 ![That is the basic
-idea](/fileadmin/_processed_/e/8/csm_fw2_1bb9f2a5af.png)
+idea](img/csm_fw2_1bb9f2a5af.png)
 
 For a very unsophisticated Firewall, all of this might already be enough
 to bypass it. Any VPN or Proxy Server may suffice. But a more advanced
