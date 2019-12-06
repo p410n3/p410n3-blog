@@ -35,9 +35,6 @@ the wet dream of any totalitarist leader in the modern world, and a very
 powerful tool in shielding away reality from citizens for the purpose of
 propaganda. But I might write more about the GFW another day.
 
-![He dont
-care](img/xi.gif "He dont care")
-
 I am also in contact with a couple of folks from Iran, a country which
 has a form of internet censorship which is similar to China. The freedom
 of chinese and iranian people is actively limited by their oppresive
