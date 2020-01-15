@@ -1,4 +1,4 @@
 # p410n3-blog
-Backup of my blog articles. Just so I don't lose them.
+Backup of my blog articles. 
 
-Live version (if present) will always be at https://palone.top
+I took the blog down because there is a obligation under German law as well as under the GDPR to provide personal details in a so called "Impressum" on my website. This would have forced me to make my full address public, which I was not fully comfortable with.
